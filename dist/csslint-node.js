@@ -22,7 +22,7 @@ THE SOFTWARE.
 
 */
 var clone = require('clone');
-var parserlib = require('parserlib');
+var parserlib = require('ant-parserlib');
 /**
  * Main CSSLint object.
  * @class CSSLint

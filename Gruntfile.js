@@ -88,7 +88,7 @@ module.exports = function(grunt) {
                 options: {
                     banner: "<%= banner %>" +
                             "var clone = require('clone');\n" +
-                            "var parserlib = require('parserlib');\n",
+                            "var parserlib = require('ant-parserlib');\n",
                     footer: "\nexports.CSSLint = CSSLint;"
                 },
                 src: "<%= csslint_files %>",
