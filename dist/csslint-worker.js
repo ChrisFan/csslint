@@ -7353,7 +7353,7 @@ module.exports = {
 
 },{"./css":22,"./util":28}]},{},[]);
 
-return require('parserlib');
+return require('ant-parserlib');
 })();
 var clone = (function() {
 'use strict';
